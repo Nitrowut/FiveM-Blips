@@ -1,4 +1,4 @@
-# FiveM Custom Blips - Editable
+# FiveM Custom Blips - ESX_Blips - Editable
 
 🛠 Requirements
 - FiveM Gta V Server
